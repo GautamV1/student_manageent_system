@@ -1,4 +1,4 @@
-# student_manageent_system
+# student_management_system
 python project to add , view and search student records.
 ## ✅ Features
 
